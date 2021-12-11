@@ -1,0 +1,388 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WeatherMSN\n"
+"POT-Creation-Date: 2020-02-13 18:34+0300\n"
+"PO-Revision-Date: 2021-12-11 13:05+0000\n"
+"Last-Translator: prodrigues <pfrodrigues@sapo.pt>\n"
+"Language-Team: <Maggy>\n"
+"Language: pt_PT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"X-Poedit-Basepath: WeatherMSN\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#, python-format
+msgid "%s m/s"
+msgstr "%s m/s"
+
+#, python-format
+msgid "%.01f m/s"
+msgstr "%.01f m/s"
+
+#, python-format
+msgid "%.01f ft/s"
+msgstr "%.01f ft/s"
+
+#, python-format
+msgid "%.01f mp/h"
+msgstr "%.01f mp/h"
+
+#, python-format
+msgid "%s mp/h"
+msgstr "%s mp/h"
+
+#, python-format
+msgid "%.01f knots"
+msgstr "%.01f knots"
+
+#, python-format
+msgid "%.01f km/h"
+msgstr "%.01f km/h"
+
+#, python-format
+msgid "%s km/h"
+msgstr "%s km/h"
+
+#, fuzzy
+msgid "New moon"
+msgstr "Lua Nova"
+
+msgid "Waxing cresent"
+msgstr "Gibosa crescente"
+
+msgid "Waning crescent"
+msgstr "Gibosa minguante"
+
+msgid "First quarter"
+msgstr "Quarto crescente"
+
+msgid "Last quarter"
+msgstr "Quarto minguante"
+
+msgid "Waxing gibbous"
+msgstr "Lua Gibosa"
+
+msgid "Waning gibbous"
+msgstr "Lua minguante"
+
+msgid "Full moon"
+msgstr "Lua cheia"
+
+#, python-format
+msgid "%s km"
+msgstr "%s km"
+
+msgid "no"
+msgstr "Não"
+
+msgid "yes"
+msgstr "Sim"
+
+msgid "m/s"
+msgstr "m/s"
+
+msgid "ft/s"
+msgstr "ft/s"
+
+msgid "km/h"
+msgstr "km/h"
+
+msgid "mp/h"
+msgstr "mp/h"
+
+msgid "knots"
+msgstr "knots"
+
+msgid "Celsius"
+msgstr "Celsius"
+
+msgid "Fahrenheit"
+msgstr "Fahrenheit"
+
+msgid "Weather MSN"
+msgstr "Weather MSN"
+
+msgid "Julian day:"
+msgstr "Dia Juliano:"
+
+msgid "Sun rise:"
+msgstr "Nascer do Sol:"
+
+msgid "Sun set:"
+msgstr "Pôr do Sol:"
+
+msgid "Solstice:"
+msgstr "Solstício:"
+
+msgid "Mercury rise:"
+msgstr "Nascer do Sol em Mercúrio:"
+
+msgid "Mercury set:"
+msgstr "Pôr do Sol em Mercúrio:"
+
+msgid "Mercury culmination:"
+msgstr "Elevação em Mercúrio:"
+
+msgid "Mercury azimuth:"
+msgstr "Azimute em Mercúrio:"
+
+msgid "Venus rise:"
+msgstr "Nascer do Sol em Vénus:"
+
+msgid "Venus set:"
+msgstr "Pôr do Sol em Vénus:"
+
+msgid "Venus culmination:"
+msgstr "Elevação em Vénus:"
+
+msgid "Venus azimuth:"
+msgstr "Azimute em Vénus:"
+
+msgid "Mars rise:"
+msgstr "Nascer do Sol em Marte:"
+
+msgid "Mars set:"
+msgstr "Pôr do Sol em Marte:"
+
+msgid "Mars culmination:"
+msgstr "Elevação em Marte:"
+
+msgid "Mars azimuth:"
+msgstr "Azimute me Marte:"
+
+msgid "Jupiter rise:"
+msgstr "Nascer do Sol em Júpiter:"
+
+msgid "Jupiter set:"
+msgstr "Pôr do Sol em Júpiter:"
+
+msgid "Jupiter culmination:"
+msgstr "Elevação em Júpiter:"
+
+msgid "Jupiter azimuth:"
+msgstr "Azimute em Júpiter:"
+
+msgid "Saturn rise:"
+msgstr "Nascer do Sol em Saturno:"
+
+msgid "Saturn set:"
+msgstr "Pôr do Sol em Saturno:"
+
+msgid "Saturn culmination:"
+msgstr "Elevação em Saturno:"
+
+msgid "Saturn azimuth:"
+msgstr "Azimute em Saturno:"
+
+msgid "Uranus rise:"
+msgstr "Nascer do Sol em Úrano:"
+
+msgid "Uranus set:"
+msgstr "Pôr do Sol em Úrano:"
+
+msgid "Uranus culmination:"
+msgstr "Elevação em Úrano:"
+
+msgid "Uranus azimuth:"
+msgstr "Azimute em Úrano:"
+
+msgid "Neptune rise:"
+msgstr "Nascer do Sol em Neptuno:"
+
+msgid "Neptune set:"
+msgstr "Pôr do Sol em Neptuno:"
+
+msgid "Neptune culmination:"
+msgstr "Elevação em Neptuno:"
+
+msgid "Neptune azimuth:"
+msgstr "Azimute em Neptuno:"
+
+msgid "Moon distance:"
+msgstr "Distância da Lua:"
+
+msgid "Moon culmination:"
+msgstr "Elevação na Lua:"
+
+msgid "Moon azimutht:"
+msgstr "Azimute na Lua:"
+
+msgid "Moon rise:"
+msgstr "Nascer do Sol na Lua:"
+
+msgid "Moon set:"
+msgstr "Pôr do Sol na Lua:"
+
+msgid "Moon light:"
+msgstr "Luz da Lua:"
+
+msgid "Rise:"
+msgstr "Nascer do Sol:"
+
+msgid "Set:"
+msgstr "Pôr do Sol:"
+
+msgid "Culmination:"
+msgstr "Elevação:"
+
+msgid "Azimuth:"
+msgstr "Azimute:"
+
+msgid "Sun:"
+msgstr "Sol:"
+
+msgid "Mercury:"
+msgstr "Mercúrio:"
+
+msgid "Venus:"
+msgstr "Vénus:"
+
+msgid "Mars:"
+msgstr "Marte:"
+
+msgid "Júpiter:"
+msgstr "Jupiter:"
+
+msgid "Saturn:"
+msgstr "Saturno:"
+
+msgid "Uranus:"
+msgstr "Úrano:"
+
+msgid "Neptune:"
+msgstr "Neptuno:"
+
+msgid "Moon:"
+msgstr "Lua:"
+
+msgid "Location:"
+msgstr "Localização:"
+
+msgid "Timezone:"
+msgstr "Zona Horária:"
+
+msgid "Latitude:"
+msgstr "Latitude:"
+
+msgid "Longitude:"
+msgstr "Longitude:"
+
+msgid "Temperature:"
+msgstr "Temperatura:"
+
+msgid "Feels like:"
+msgstr "Feels like:"
+
+msgid "Humidity:"
+msgstr "Humidade:"
+
+msgid "Chance precip:"
+msgstr "Probabilidade de preciptação:"
+
+msgid "Natural events:"
+msgstr "Eventos naturais:"
+
+msgid "Wind:"
+msgstr "Vento:"
+
+msgid "Observation point:"
+msgstr "Ponto de observação:"
+
+msgid "Date:"
+msgstr "Data:"
+
+msgid "Day week:"
+msgstr "Dia da semana:"
+
+#, python-format
+msgid "%s"
+msgstr "%s"
+
+msgid "n/a"
+msgstr "n/a"
+
+#, python-format
+msgid "%s h"
+msgstr "%s h"
+
+#, python-format
+msgid "%s%s%s"
+msgstr "%s%s%s"
+
+#, python-format
+msgid "%s %s"
+msgstr "%s %s"
+
+#, python-format
+msgid "%s %s %s"
+msgstr "%s %s %s"
+
+#, python-format
+msgid "%s%s%s / %s%s%s"
+msgstr "%s%s%s / %s%s%s"
+
+msgid ""
+"Weather MSN \n"
+"Developer: Sirius0103 \n"
+"Homepage: www.gisclub.tv \n"
+"Github: www.github.com/Sirius0103 \n"
+"\n"
+"Donate: \n"
+"R460680746216 \n"
+"Z395874509364 \n"
+"E284580190260"
+msgstr ""
+"Погода MSN \n"
+"Разработчик: Sirius0103 \n"
+"Homepage: www.gisclub.tv \n"
+"Github: www.github.com/Sirius0103 \n"
+"\n"
+"Поблагодарить: \n"
+" \n"
+"R460680746216 \n"
+"Z395874509364 \n"
+"E284580190260"
+
+msgid "Config Weather MSN"
+msgstr "Configurar o Weather MSN"
+
+msgid "Close"
+msgstr "Fechar"
+
+msgid "Save"
+msgstr "Salvar"
+
+msgid "Search Location"
+msgstr "Procurar localização"
+
+msgid "Enter text to search city"
+msgstr "Inserir texto de localização de cidade "
+
+msgid "Show Weather MSN in menu information:"
+msgstr "Mostar Weather MSN no menu de informação:"
+
+msgid "Scale of wind speed:"
+msgstr "Escala de velocidade do vento:"
+
+msgid "Scale of temperature:"
+msgstr "Escala da temperatura:"
+
+msgid "Create converter in system:"
+msgstr "Criar conversor no sistema:"
+
+msgid "Do you want to restart the GUI now ?"
+msgstr "Efectuar restart à GUI agora?"
+
+msgid "Configuration is saved"
+msgstr "A configuração foi salva"
+
+msgid "Search Location Weather MSN"
+msgstr "Procurar localização no Weather MSN"
+
+msgid "Weather forecast, astronomical calculations"
+msgstr "Cálculos astronômicos Weather forecast"
